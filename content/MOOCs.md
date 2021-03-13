@@ -4,23 +4,4 @@ metaTitle: "Massive Open Online Courses Learning"
 metaDescription: "My takeaways from Learning Through Massively Open Online Courses"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
-
-```javascript
-import React from 'react';
-```
-
-Supports multiple languages.
-
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
-
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
-
-## Live Editing example
-
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
+Basically anything relating to MOOCs, of which Coursera is probably the most well known.
