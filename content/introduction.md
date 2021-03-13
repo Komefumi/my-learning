@@ -1,32 +1,11 @@
 ---
 title: "Introduction"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+metaTitle: "Introduction"
+metaDescription: "Introductory Page"
 ---
 
-Some introduction text. Lists out all the headings from h1 to h6. Easy to customise.
+# Welcome
 
-# Heading H1
-Heading 1 text
+This will function as a semi-blog where I write about the matters that I study. You're free to look into the contents and learn + copy as you please.
 
-## Heading H2
-Heading 2 text
-
-### Heading H3
-Heading 3 text
-
-#### Heading H4
-Heading 4 text
-
-##### Heading H5
-Heading 5 text
-
-###### Heading H6
-Heading 6 text
-
-## Lists
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+You can always reach me via my email: arjunraju.pillai.1997@gmail.com

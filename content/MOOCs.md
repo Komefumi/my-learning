@@ -1,7 +1,7 @@
 ---
-title: "Syntax Highlighting"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+title: "Learning With/Through MOOCs"
+metaTitle: "Massive Open Online Courses Learning"
+metaDescription: "My takeaways from Learning Through Massively Open Online Courses"
 ---
 
 The following is a code block with JavaScript language syntax highlighting.
