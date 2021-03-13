@@ -82,7 +82,7 @@ const config = {
 
 const config = {
   gatsby: {
-    pathPrefix: '/',
+    pathPrefix: '/my-learning',
     // siteUrl: 'https://hasura.io',
     gaTrackingId: null,
     trailingSlash: false,
