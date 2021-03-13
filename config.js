@@ -83,7 +83,7 @@ const config = {
 const config = {
   gatsby: {
     pathPrefix: '/my-learning',
-    // siteUrl: 'https://hasura.io',
+    siteUrl: 'https://komefumi.github.io',
     gaTrackingId: null,
     trailingSlash: false,
   },
